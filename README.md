@@ -1,2 +1,2 @@
 # AlDarBlueConky
-Just my conky code to baackup (:
+Just my conky code to backup (:
