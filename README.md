@@ -2,7 +2,7 @@
 
 Lux HUD is a collection of [Conky](https://github.com/brndnmtthws/conky) configs that gives you an almost complete system monitoring.
 
-[![lux-hud conky configs](https://raw.githubusercontent.com/luxwarp/lux-hud/master/screenshot.png)](https://raw.githubusercontent.com/luxwarp/lux-hud/master/screenshot.png)
+[![lux-hud conky configs](screenshot.png)
 
 ## Features
 
@@ -15,6 +15,9 @@ Lux HUD is a collection of [Conky](https://github.com/brndnmtthws/conky) configs
 -   Processes
 -   Journal log
 -   Time / Calendar
+-   Weather
+-   Mellow Player (Music)
+-   Site Status Check
 
 ## Requirements
 
@@ -31,7 +34,7 @@ Make sure you have conky and the Cutive Mono font installed on your system.
 Download compressed files or use git clone.
 
 ```shell
-git clone https://github.com/luxwarp/lux-hud.git
+git clone 
 ```
 
 Place the cloned or uncompressed lux-hud folder inside
@@ -89,7 +92,7 @@ Feel free to contact me on email mikael.m.carlsson@gmail.com or create an [issue
 
 ## License
 
-ISC © 2021 [Mikael Luxwarp Carlsson](https://connumin.com)
+ISC © 2022 Lucas Aleixo
 
 ## Note
 
