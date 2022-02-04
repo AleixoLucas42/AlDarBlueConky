@@ -1,6 +1,6 @@
 # AlDarkBlue Conky
 
-Lux HUD is a collection of [Conky](https://github.com/brndnmtthws/conky) configs that gives you an almost complete system monitoring.
+AlDarkBlue is a collection of [Conky](https://github.com/brndnmtthws/conky) configs that gives you an almost complete system monitoring.
 
 ![lux-hud conky configs](screenshot.png)
 
